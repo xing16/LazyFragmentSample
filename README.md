@@ -3,6 +3,6 @@
 
 效果图：<br/>
 
-<img src="https://github.com/xing16/LazyFragmentSample/raw/master/screenshot/screen.gif" width="40%"  alt="screen.png"/>
+<img src="https://github.com/xing16/LazyFragmentSample/raw/master/screenshot/screen.gif" width="80%"  alt="screen.png"/>
 
 
